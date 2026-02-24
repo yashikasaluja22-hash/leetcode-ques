@@ -1,6 +1,6 @@
 /* If you are a beginner solve these problems which makes concepts clear for future coding:
 
-Two Sum
+Two Sum --> done
 Roman to Integer
 Palindrome Number
 Maximum Subarray
